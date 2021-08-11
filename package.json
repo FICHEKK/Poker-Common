@@ -1,0 +1,7 @@
+{
+  "name": "com.fichekk.poker-common",
+  "version": "1.0.0",
+  "displayName": "Poker Common",
+  "description": "Common code used by the Poker Client and Server.",
+  "unity": "2019.2"
+}
